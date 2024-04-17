@@ -1,4 +1,4 @@
-# ToDo List Version 4
+# ToDo List SQL+PHP
 
 ## Overview
 This project is a web application designed to manage a to-do list, providing users with a platform to organize tasks efficiently. It allows users to create, edit, and mark tasks as completed, as well as categorize tasks for better organization. The application offers various views and reports to enhance user experience and productivity.
