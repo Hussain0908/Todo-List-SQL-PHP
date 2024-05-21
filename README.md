@@ -44,8 +44,3 @@ This project is a web application designed to manage a to-do list, providing use
 4. Configure environment variables.
 5. Run the application using `npm start`.
 
-## Contributors
-- [Your Name](https://github.com/yourusername)
-
-## License
-This project is licensed under the [MIT License](LICENSE).
